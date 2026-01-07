@@ -1,0 +1,23 @@
+body{
+    background:#ffffff;
+    color:#000000;
+}
+header{
+    background:#cccccc;
+}
+a{
+    background: #4040ff;
+    color: #f0f0f0;
+    padding: 7px;
+    border-radius: 5px;
+}
+li{
+    border: 2px solid gray;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+    padding: 3px;
+}
+.link{
+    color: #3F51B5;
+}
